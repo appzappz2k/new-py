@@ -1,2 +1,2 @@
 # new-py
-new py project for the Zoneflickerstick website
+new py project files
