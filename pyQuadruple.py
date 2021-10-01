@@ -1,3 +1,5 @@
+//pyquadraple
+
 i = input("How many numbers:")
 i = int(i)
 a = []
