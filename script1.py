@@ -22,4 +22,4 @@ print(price)
 print(converted_price)
 
 
-# i have no idea what this is supposed to do, duh... need some iprovisation.. will do in 2 weeks
+# i have no idea what this is supposed to do, duh... need some improvisation.. will do in 2 weeks
